@@ -59,7 +59,8 @@
     }
     .skil-card {
         width: 90%; 
-        max-width: 300px; 
+        max-width: 300px;
+        min-height: auto; 
     }
     .skill-title {
         font-size: 28px; 
